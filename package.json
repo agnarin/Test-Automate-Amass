@@ -1,0 +1,17 @@
+{
+  "name": "playwright-test-project",
+  "version": "1.0.0",
+  "description": "Playwright test project for comment app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "exceljs": "^4.4.0"
+  },
+  "type": "module"
+}
